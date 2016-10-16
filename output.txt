@@ -1,0 +1,9 @@
+The number of user accounts is: 52
+Users ordered by user name: 
+abrt:173:173
+adm:3:4
+apache:48:48
+avahi-autoipd:170:170
+bin:1:1
+The number of users having bash as command when logging is: 10
+Computing time: 4242
